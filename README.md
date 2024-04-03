@@ -3,7 +3,7 @@ Diese Anwendung ist nur in Terminal Auszuführen.
 Sie wurde einfach zum Verstehen der Logik hinter Spielprogrammen gemacht. 
 
 ## zur Ausführung
-Sie können dafür das Verzeichnis klonen und den datei __SpielFeld.exe__ ausführen. 
+Sie können dafür das Verzeichnis klonen und die Datei __SpielFeld.exe__ ausführen. 
 
 ## Beschreibung
 Es gibt insgesamt 144 Kacheln und 15 Bomben die zufällig auf dem Spielfeld verteilt sind.
